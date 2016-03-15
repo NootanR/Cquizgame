@@ -1,3 +1,4 @@
+//All contributions by Nootan Nayak ,Pushkar Sanid and Apoorv Priyadarshi.
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
@@ -456,4 +457,4 @@ int question10(int h)
      closegraph();
      restorecrtmode();
   }
-
+// Special thanks to let us C book..
