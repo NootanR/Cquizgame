@@ -1,0 +1,7 @@
+1|what is sun?|star|planet|star
+2|what is java?|compiler|lang|lang
+3|hi|dude|bro|bro
+4|what is java?|pl|pp|pl
+5|who are we|we|us|we
+
+5|asdf|as|qw|qw
